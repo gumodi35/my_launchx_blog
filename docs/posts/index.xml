@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gumodi35.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Título de tu blog post</title>
+      <link>https://gumodi35.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gumodi35.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>RECUENTO DE APRENDIZAJE LAUNCHX  Ser Autodidacta Confiar en mi Aprender muchas cosas interesantes Gestionar mi tiempo Manejo del estres y de las emociones Tecnologias del Frontend Maquetacion con HTML, CSS y JS Introduccion a Python Aprender la logica de negocios y toma de requerimientos Entender a fondo como es el desarrollo de software   Esta travesia que comenzo hace algunas semanas me permitio, desarrollar mis habilidades y conocer nuevas tecnologias puede ser dificil al comienzo, pero es cuestion de constancia, ya que eso es basicamente el ki de ser un desarrollador hay muchos recursos pero el recurso mas importante es poder entender que depende de uno y de la dedicacion que le ponga, es frustrante en muchas ocaciones sin embargo es importante no perder de vista el horizonte al cual nos dirigimos y en el cual podemos encontrar algunas dificultades, pero confiar en que podremos completar nuestra mision.</description>
+    </item>
+    
+    <item>
       <title>La cultura en el Desarrollo de Software</title>
       <link>https://gumodi35.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
