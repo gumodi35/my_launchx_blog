@@ -1,7 +1,7 @@
 ---
-title: "Título de tu blog post"
-date: 2022-03-01
-description: 'Descripción de tu blog post'
+title: "Recuento del Viaje"
+date: 2022-04-08
+description: 'Viaje LaunchX'
 ---
 
 ## RECUENTO DE APRENDIZAJE LAUNCHX
